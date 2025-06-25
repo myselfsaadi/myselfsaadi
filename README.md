@@ -35,6 +35,7 @@ I'm a passionate **Embedded Systems Engineer** and **AI/ML Developer** with a st
 - **Email**: [m.saadi.shafiq@gmail.com](mailto:m.saadi.shafiq@gmail.com)
 - **LinkedIn**: [Muhammad Saad](https://www.linkedin.com/in/i-am-muhammadsaad/)
 - **GitHub**: [myselfsaadi](https://github.com/myselfsaadi)
+- **HuggingFace**: [m-saadi](https://huggingface.co/m-saadi)
 
 ## ⚡ Fun Fact
 I believe in the power of technology to drive sustainability and create a better future. Let's build it together!
